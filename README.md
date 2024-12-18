@@ -110,5 +110,5 @@ CMD ["bin/app"]
 
 ## Resources
 
-- [Slides]()
+- [Slides](./slides.pdf)
 - [Recording]()
